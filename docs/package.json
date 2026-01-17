@@ -8,7 +8,7 @@
 		"@testing-library/react": "^11.1.0",
 		"@testing-library/user-event": "^12.1.10",
 		"kindle-fonts": "workspace:*",
-		"next": "^15.3.1",
+		"next": "^15.5.9",
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
 		"react-router-dom": "^5.2.0",
